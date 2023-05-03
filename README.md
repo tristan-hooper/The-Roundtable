@@ -17,7 +17,7 @@ In a simple summary, (🔒Summa) summarizes user requests, (🔓Imaginatio) offe
 ## USAGE AND  LEGAL CONSIDERATIONS
 1. Please do not use this as a skeleton framework to make Skynet or any other type of semi-sentient AI Congress.
 2. This is untested in Auto-GPT, AgentLLM, or any other kind of automatic LLM that may utilize an API. I am a poor college student, so this is a passion project that I could not fully experiment with. I am not responsible for the loss of functionality, loss of data, or any other harmful outcome that may occur as result of experimenting with this framework.
-3. Legacy GPT and Turbo do not work as well as GPT-4; it requires significantly more precision in wording to clarify the usage of this prompt, and may require several tries to manage to make this run correctly. Regardless, it is possible, if not limited.
+3. Legacy GPT and Turbo do not work as well as GPT-4; it requires significantly more precision in wording to clarify the usage of this prompt, and may require several tries to manage to make this run correctly. Regardless, it is possible, if limited.
 
 ## THE PROMPT
 Rejoice! Here is the prompt: [Roundtable JSON.txt](https://github.com/tristan-hooper/The-Roundtable/files/11377365/Roundtable.JSON.txt)

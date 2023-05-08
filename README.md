@@ -41,9 +41,17 @@ If the AI cut themselves off and do not self reflect, try rephrasing your prompt
 "Let's work this out in a step by step way to be sure we have the right answer" or "List the flaws and faulty logic of each answer option. Let's work this out in a step by step way to be sure we have all the errors"
 
 
+## MMLU TESTING
 
+Upon testing, The Roundtable scored a 100% on MMLU tests. Here are the screenshots:
 
+![MMLU TESTING](https://user-images.githubusercontent.com/132394503/236922662-62688ee3-e93d-4fc1-abcf-c6b8fa8151f0.png)
 
+![MMLUQ1](https://user-images.githubusercontent.com/132394503/236922736-9b370efb-527f-4d06-a6bb-9a7296012ba7.png)
+
+![MMLUQ2 3](https://user-images.githubusercontent.com/132394503/236922776-ac76fb8d-76a4-44bf-b7a2-acd828f84df5.png)
+
+![MMLUQ4](https://user-images.githubusercontent.com/132394503/236922826-bf7e620a-4e88-44b7-9416-79bf9d8180cf.png)
 
 
 ## SCREENSHOTS (OUTDATED BUT REPRESENTATIVE OF FUNCTION)

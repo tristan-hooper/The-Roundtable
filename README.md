@@ -43,7 +43,7 @@ If the AI cut themselves off and do not self reflect, try rephrasing your prompt
 
 ## MMLU TESTING
 
-Upon testing, The Roundtable scored a 100% on MMLU tests. Here are the screenshots:
+Upon testing, The Roundtable scored a 100% on MMLU tests with GPT-4. Here are the screenshots:
 
 ![MMLU TESTING](https://user-images.githubusercontent.com/132394503/236922662-62688ee3-e93d-4fc1-abcf-c6b8fa8151f0.png)
 
